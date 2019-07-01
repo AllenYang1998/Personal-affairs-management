@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="demo"></dbname>
+    <version value="18"></version>
+
+    <list>
+        <mapping class="com.example.a29230.myapplication.Record"/>
+        <mapping class="com.example.a29230.myapplication.Bill"/>
+    </list>
+</litepal>
